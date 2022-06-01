@@ -55,4 +55,4 @@ type(input_variable)  # returns   str (String)
 #   Change the input type by casting:
 input_variable = int(input("Enter a number: "))
 
-type(input_variable)  # returns   int (Integer)
+type(input_variable)  # returns   int (interger)
