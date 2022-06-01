@@ -50,7 +50,7 @@ print(my_variable)
 # !! The return value from the input function will always be a str !!
 input_variable = input("Enter a number: ")
 
-type(input_variable)  # returns   str (String)
+type(input_variable)  # returns   str (string)
 
 #   Change the input type by casting:
 input_variable = int(input("Enter a number: "))
